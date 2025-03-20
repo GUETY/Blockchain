@@ -12,7 +12,12 @@ header{
     font-size: 25px;
     font-family: verdana;
 }
-
+footer{
+    background-color: #2754ba;
+    text-align: center;
+    font-size: 50px;
+    font-family: verdana;
+}
 span{
     color: rgb(255, 99, 71);
 }
